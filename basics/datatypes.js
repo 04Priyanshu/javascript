@@ -11,4 +11,15 @@ let tell=true //boolean
 //symbol=uniqueness
 
 
- 
+ //non primitive datatype - array,symbols,functions
+
+ const heros=["shaktiman","doga"]//array
+ //object
+ let myobj = {
+    name:"priyanshu",
+    age:20,
+ }
+ //function
+ const myfunction= function(){
+    console.log("hello world");
+ }
